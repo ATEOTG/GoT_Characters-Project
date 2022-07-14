@@ -30,3 +30,20 @@ body {
   padding: 0 3.2rem;
   margin: 0 auto;
 }
+
+.text-align {
+  text-align: center;
+}
+
+/* Header */
+.header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1.6rem;
+}
+.quote {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
